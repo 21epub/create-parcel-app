@@ -6,7 +6,7 @@
 
 ## Intro
 
-Easy to parcel app (parcel 1.x) .
+Easy to create a parcel ts app (parcel 1.x) .
 
 Parcel app for several scenario :
 
@@ -68,6 +68,13 @@ Now, anytime you can keep on developing
 
 ```bash
 npm start # start bundle and watch your dev code  
+```
+
+For Proxy Server Development
+Before start , customize your proxy api in scripts/proxy.config.json
+
+```bash
+npm run start:proxy
 ```
 
 Commit Method Recommandation
